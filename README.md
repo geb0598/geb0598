@@ -11,7 +11,7 @@
 - **고려대학교** (Korea University)
   - 컴퓨터학과 (Computer Science & Engineering) 학사 졸업 (2025.02)
 
-- **크래프톤 정글 게임 테크랩** (Krafton Jungle)
+- **크래프톤 정글** (Krafton Jungle)
   - 게임 테크랩 2기 (Game Techlab 2nd Cohort) 수료 (2026.02)
   
 ---
