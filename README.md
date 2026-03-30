@@ -1,8 +1,8 @@
 ## 이준용 | Junyong Lee
 
 <div align="left">
-  <a href="https://solved.ac/geb0598">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=geb0598" height="130" alt="Baekjoon Profile" />
+  <a href="https://solved.ac/jy11100">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jy11100" height="130" alt="Baekjoon Profile" />
   </a>
 </div>
 
