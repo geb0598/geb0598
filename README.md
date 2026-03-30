@@ -12,7 +12,7 @@
 <div>
   <img align="left" height="45" src="https://github.com/user-attachments/assets/5a4cc884-1166-4695-9b68-2c432f639469" alt="korea_logo" style="margin-right: 20px;"/>
   <strong>고려대학교 (Korea University)</strong><br>
-  정보대학 컴퓨터학과 (Computer Science & Engineering) 학사 졸업 (2025.02)
+  정보대학 컴퓨터학과 (Computer Science & Engineering) 졸업 (2025.02)
 </div>
 
 <br><br>
