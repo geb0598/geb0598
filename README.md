@@ -15,7 +15,7 @@
   정보대학 컴퓨터학과 (Computer Science & Engineering) 학사 졸업 (2025.02)
 </div>
 
-<br><br><br>
+<br><br>
 
 <div>
   <img align="left" height="45" src="https://github.com/user-attachments/assets/7f4d5a76-6518-4c1d-bb38-7bbeb5a6b7d3" alt="jungle_logo" style="margin-right: 20px;"/>
