@@ -20,7 +20,7 @@
 <div>
   <img align="left" height="45" src="https://github.com/user-attachments/assets/7f4d5a76-6518-4c1d-bb38-7bbeb5a6b7d3" alt="jungle_logo" style="margin-right: 20px;"/>
   <strong>크래프톤 정글 (Krafton Jungle)</strong><br>
-  게임 테크랩 2기 (Game Techlab 2nd Cohort) 수료 (2026.02)
+  게임 테크랩 2기 (Game Tech Lab 2nd Cohort) 수료 (2026.02)
 </div>
 
 <br>
