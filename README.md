@@ -7,15 +7,23 @@
 </div>
 
 ---
-<img height="40" alt="korea_logo" src="https://github.com/user-attachments/assets/5a4cc884-1166-4695-9b68-2c432f639469" />
+<br>
 
-- **고려대학교** (Korea University)
-  - 정보대학 컴퓨터학과 (Computer Science & Engineering) 졸업 (2025.02)
- 
-<img height="40" alt="jungle_logo" src="https://github.com/user-attachments/assets/7f4d5a76-6518-4c1d-bb38-7bbeb5a6b7d3" />
+<div>
+  <img align="left" height="45" src="https://github.com/user-attachments/assets/5a4cc884-1166-4695-9b68-2c432f639469" alt="korea_logo" style="margin-right: 20px;"/>
+  <strong>고려대학교 (Korea University)</strong><br>
+  정보대학 컴퓨터학과 (Computer Science & Engineering) 학사 졸업 (2025.02)
+</div>
 
-- **크래프톤 정글** (Krafton Jungle)
-  - 게임 테크랩 2기 (Game Techlab 2nd Cohort) 수료 (2026.02)
+<br><br><br>
+
+<div>
+  <img align="left" height="45" src="https://github.com/user-attachments/assets/7f4d5a76-6518-4c1d-bb38-7bbeb5a6b7d3" alt="jungle_logo" style="margin-right: 20px;"/>
+  <strong>크래프톤 정글 (Krafton Jungle)</strong><br>
+  게임 테크랩 2기 (Game Techlab 2nd Cohort) 수료 (2026.02)
+</div>
+
+<br>
   
 ---
 
